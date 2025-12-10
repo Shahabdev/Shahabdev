@@ -1,22 +1,19 @@
 [![MasterHead]([url=https://ibb.co/gM4W9xG][img]https://i.ibb.co/svW1RZh/Modern-Minimal-Technology-Background-Banner-1.jpg[/img][/url])
 <h1 align="center">Hi 👋, I'm Shahabdev</h1>
-<h3 align="center">A passionate full stack developer of flutter dev</h3>
+<h3 align="center">A passionate full stack developer of flutter</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dukp6c7f7/image/upload/f_auto,fl_lossy,q_auto/s3-ghost//2021/02/flutter-autocompletion.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahabdev&label=Profile%20views&color=0e75b6&style=flat" alt="shahabdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahabdev" alt="shahabdev" /></a> </p>
 
-- 🔭 I’m currently working on **e-commerce app seller side**
+- 🔭 I’m currently working on **Ride Sharing App**
 
 - 👯 I’m looking to collaborate on **Flutter development project**
-- 🌱 I’m currently learning **Flutter,ChatbotAi**
 
-- 💬 Ask me about **Firebase,Ui,ChatBotAi,Provider,Getx,rest API**
+- 💬 Ask me about **Clean Architecture ,MVVM, App Performance Issues, App Profiling ,Native Side Issues,Firebase,Bloc,Provider,Getx,rest API**
 
 - 📫 How to reach me **shahabuddin07704@gmail.com**
-
-- ⚡ Fun fact **i think i am serious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
